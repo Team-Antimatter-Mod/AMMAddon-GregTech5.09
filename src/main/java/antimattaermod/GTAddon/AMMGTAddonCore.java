@@ -1,6 +1,6 @@
 package antimattaermod.GTAddon;
 
-import antimattaermod.core.AntiMatterModRegistry;
+import antimattermod.core.AntiMatterModRegistry;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
